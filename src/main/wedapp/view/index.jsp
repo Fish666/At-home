@@ -10,7 +10,7 @@
 	<form action="${pageContext.request.contextPath}/test/doLogin.do">
 		<input name="tname">
 		<input name="tpwd">
-		<button>登录注册</button>
+		<button>登录</button>
 	</form>
 </body>
 </html>
